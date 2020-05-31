@@ -1,0 +1,20 @@
+<span id="a">ajay@ajaykumarsingh.in</span>:<span id="b">~</span><span id="c">$</span> cd Ajay/<!-- kjsdfhkjdhsfkjdshfkj -->About_Me
+<span id="a">ajay@ajaykumarsingh.in</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->ajays.txt<br/><br/>
+My favorite code quote, "<span id="k">Code for Everyone</span>". 
+
+Hey There! Thanks for visiting my profile.
+<p>
+    Hello! I’m Ajay Kumar Singh. Software Developer with over 7+ years of experience
+    specializing in Web Appplication Developement. Experienced with all stages of the
+    development cycle for dynamic web projects.Having knowledge
+    of C#, ASP.Net, ASP.Net MVC, Web API, Python, Angular, HTML5, CSS, Javascript, 
+    JQuery, Angular JS..
+</p>
+<p> You can also find me on below platforms.<br> 
+<a href="https://www.linkedin.com/in/sonu-ajay/" target="_blank">LinkedIn</a>
+<a href="https://twitter.com/ajaysonusingh" target="_blank">Twitter</a>
+<a href="https://www.facebook.com/ajaykedarsingh" target="_blank">Facebook</a>
+<a href="https://github.com/sonuajayin" target="_blank">Github</a>
+</p>
+<p>Feel free to send me an email at <a href="mailto:sonu.ajay.in@gmail.com">sonu.ajay.in@gmail.com</a>.
+<p>Cheers!</p>
