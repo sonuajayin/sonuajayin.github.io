@@ -1,14 +1,15 @@
 <span id="a">ajay@ajaykumarsingh.in</span>:<span id="b">~</span><span id="c">$</span> cd Ajay/<!-- kjsdfhkjdhsfkjdshfkj -->About_Me
 <span id="a">ajay@ajaykumarsingh.in</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->ajays.txt<br/><br/>
-My favorite code quote, "<span id="k">Code for Everyone</span>". 
+My favorite code quote, "<span id="k">First Make it Work, Later improve.</span>". 
 
 Hey There! Thanks for visiting my profile.
 <p>
-    Hello! I’m Ajay Kumar Singh. Software Developer with over 7+ years of experience
-    specializing in Web Appplication Developement. Experienced with all stages of the
-    development cycle for dynamic web projects.Having knowledge
-    of C#, ASP.Net, ASP.Net MVC, Web API, Python, Angular, HTML5, CSS, Javascript, 
-    JQuery, Angular JS..
+    An experienced software engineer specialized in Continuous Delivery Aspects of the software development lifecycle.
+    With 7 years of experience as Core Java developer helping organizations build high quality applications.
+</p>
+<p>
+    Having a strong belief in power of inspect and adapt feedback loops to improve. 
+    Focused on delivering high value in automated and controlled way.
 </p>
 <p> You can also find me on below platforms.<br> 
 <a href="https://www.linkedin.com/in/sonu-ajay/" target="_blank">LinkedIn</a>
