@@ -12,9 +12,9 @@ Hey There! Thanks for visiting my profile.
     Focused on delivering high value in automated and controlled way..
 </p>
 <p> You can also find me on below platforms.<br> 
-<a href="https://www.linkedin.com/in/sonu-ajay/" target="_blank">LinkedIn</a>
-<a href="https://twitter.com/ajaysonusingh" target="_blank">Twitter</a>
-<a href="https://www.facebook.com/ajaykedarsingh" target="_blank">Facebook</a>
+<a href="https://www.linkedin.com/in/sonuajayin/" target="_blank">LinkedIn</a>
+<a href="https://twitter.com/sonuajayin" target="_blank">Twitter</a>
+<a href="https://www.facebook.com/sonuajayin" target="_blank">Facebook</a>
 <a href="https://github.com/sonuajayin" target="_blank">Github</a>
 </p>
 <p>Feel free to send me an email at <a href="mailto:sonu.ajay.in@gmail.com">sonu.ajay.in@gmail.com</a>.
