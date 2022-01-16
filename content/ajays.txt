@@ -4,7 +4,7 @@ My favorite code quote, "<span id="k">First Make it Work, Later improve.</span>"
 
 Hey There! Thanks for visiting my profile. Below follows a brief introduction about me.
 <p>
-    Results-oriented software engineering professional with more than 8 years of experience in field. Well-versed in promoting object-oriented approaches to real-time software development. Analytical and detail oriented.
+    Results-oriented software engineering professional with more than 9 years of experience in field. Well-versed in promoting object-oriented approaches to real-time software development. Analytical and detail oriented.
 </p>
 <p>
     Seasoned programming professional well-versed in working on applications, forms and databases. Expertise includes Java, C#, Javascript, SQL and various other technologies. Team-oriented and hardworking with good verbal and written communication skills.
