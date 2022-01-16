@@ -1,22 +1,19 @@
 <span id="a">ajay@ajaykumarsingh.in</span>:<span id="b">~</span><span id="c">$</span> cd Ajay/<!-- kjsdfhkjdhsfkjdshfkj -->About_Me
-<span id="a">ajay@ajaykumarsingh.in</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->ajays.txt<br/><br/>
+<span id="a">ajay@ajaykumarsingh.in</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->ajays.txt<br/>
 My favorite code quote, "<span id="k">First Make it Work, Later improve.</span>". 
 
 Hey There! Thanks for visiting my profile. Below follows a brief introduction about me.
-<p>
-    Results-oriented software engineering professional with more than 9 years of experience in field. Well-versed in promoting object-oriented approaches to real-time software development. Analytical and detail oriented.
-</p>
-<p>
-    Seasoned programming professional well-versed in working on applications, forms and databases. Expertise includes Java, C#, Javascript, SQL and various other technologies. Team-oriented and hardworking with good verbal and written communication skills.
-</p>
-<p>
-    Software Developer skilled at technical leadership, communication and presentations. Experienced in full project life cycle from design to implementation to integration.
-</p>
-<p>
-    Having a strong belief in power of inspect and adapt feedback loops to improve. 
-    Focused on delivering high value in automated and controlled way..
-</p>
-<p> You can also find me on below platforms.<br> 
+
+Results-oriented software engineering professional with more than 9 years of experience in field. Well-versed in promoting object-oriented approaches to real-time software development. Analytical and detail oriented.
+
+Seasoned programming professional well-versed in working on applications, forms and databases. Expertise includes Java, C#, Javascript, SQL and various other technologies. Team-oriented and hardworking with good verbal and written communication skills.
+
+Software Developer skilled at technical leadership, communication and presentations. Experienced in full project life cycle from design to implementation to integration.
+
+Having a strong belief in power of inspect and adapt feedback loops to improve. 
+Focused on delivering high value in automated and controlled way..
+
+You can also find me on below platforms.
 <a href="https://www.linkedin.com/in/sonuajayin/" target="_blank">LinkedIn</a>
 <a href="https://twitter.com/sonuajayin" target="_blank">Twitter</a>
 <a href="https://github.com/sonuajayin" target="_blank">Github</a>
